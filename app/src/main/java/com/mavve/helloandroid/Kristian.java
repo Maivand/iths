@@ -1,2 +1,4 @@
-package com.mavve.helloandroid;public class Kristian {
+package com.mavve.helloandroid;
+
+public class Kristian {
 }
